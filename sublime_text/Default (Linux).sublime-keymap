@@ -1,0 +1,5 @@
+[
+	{ "keys": ["shift+f10"], "command": "context_menu" },
+	{ "keys": ["alt+shift+up"], "command": "select_lines", "args": {"forward": false} },
+	{ "keys": ["alt+shift+down"], "command": "select_lines", "args": {"forward": true} },
+]
