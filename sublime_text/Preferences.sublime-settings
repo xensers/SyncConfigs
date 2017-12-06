@@ -1,7 +1,21 @@
 {
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
 	"draw_white_space": "all",
-	"font_size": 17,
+	"font_size": 14,
+	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-	]
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"margin": 0,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"theme": "Default.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
