@@ -5,11 +5,19 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"Alignment",
 		"All Autocomplete",
+		"Angular CLI",
 		"ApplySyntax",
 		"AutoFileName",
+		"ayu",
+		"BracketHighlighter",
+		"cdnjs",
+		"Chrome Color Scheme",
+		"Color Highlighter",
 		"ColorPicker",
+		"Colorsublime",
 		"Comment-Snippets",
 		"CSS Extended Completions",
 		"CSScomb",
@@ -25,9 +33,19 @@
 		"jQuery",
 		"jQuery Snippets pack",
 		"jQueryDocs",
+		"JSX",
+		"LiveReload",
+		"MODx Revolution Snippets",
+		"ModxElements",
+		"MySQL Snippets",
 		"Package Control",
+		"PackageResourceViewer",
+		"REM PX",
+		"Sass",
 		"SCSS",
 		"SFTP",
-		"Smarty"
+		"Smarty",
+		"Theme - Numix Light",
+		"TypeScript"
 	]
 }

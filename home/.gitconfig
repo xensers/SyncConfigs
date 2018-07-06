@@ -11,7 +11,7 @@
 	dump = cat-file -p
 [core]
 	editor = vim
-	excludesfile = /Users/naumov/.gitignore
+	excludesfile = /Users/xensers/.gitignore
 [push]
 	default = simple
 [filter "lfs"]
