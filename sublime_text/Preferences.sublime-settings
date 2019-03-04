@@ -4,7 +4,7 @@
 	"caret_extra_bottom": 1,
 	"caret_extra_top": 2,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Colorsublime - Themes/cache/Colorsublime-Themes-master/themes/Monokai.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
 	"font_size": 13,
@@ -12,7 +12,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"ActionScript"
+		"ActionScript",
+		"jQuery",
+		"jQuery Snippets pack"
 	],
 	"match_selection": false,
 	"rulers":
@@ -22,6 +24,8 @@
 	],
 	"scroll_past_end": false,
 	"show_definitions": false,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?"
 }
