@@ -7,14 +7,23 @@
 	"color_scheme": "Packages/Colorsublime - Themes/Monokai.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
-	"font_size": 13,
+	"folder_exclude_patterns":
+	[
+		".svn/",
+		".git/",
+		"node_modules/",
+		"bower_components/",
+		".nuxt/"
+	],
+	"font_size": 14,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"ActionScript",
 		"jQuery",
-		"jQuery Snippets pack"
+		"jQuery Snippets pack",
+		"SublimeLinter"
 	],
 	"match_selection": false,
 	"rulers":

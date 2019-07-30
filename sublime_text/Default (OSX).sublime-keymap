@@ -1,2 +1,40 @@
 [
+    { 
+        "keys": ["f", "<character>"], 
+        "command": "easy_motion",
+        "args": {"select_text": false},
+        "context": [{"key": "setting.command_mode"}]
+    },
+    { 
+        "keys": ["f", "enter"], 
+        "command": "easy_motion",
+        "args": {"select_text": false, "character": "enter"},
+        "context": [{"key": "setting.command_mode"}]
+    },
+    { 
+        "keys": ["F", "<character>"], 
+        "command": "easy_motion",
+        "args": {"select_text": true},
+        "context": [{"key": "setting.command_mode"}]
+    },
+    { 
+        "keys": ["F", "enter"], 
+        "command": "easy_motion",
+        "args": {"select_text": true, "character": "enter"},
+        "context": [{"key": "setting.command_mode"}]
+    },
+    { 
+        "keys": ["super+ctrl+a"],
+        "command": "alignment"
+    },
+    // Lint this view
+    {
+        "keys": ["ctrl+alt+l"],
+        "command": "sublime_linter_lint"
+    },
+    // Show all errors
+    {
+        "keys": ["ctrl+alt+a"],
+        "command": "sublime_linter_panel_toggle"
+    }
 ]

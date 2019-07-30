@@ -12,9 +12,11 @@
 		"ApplySyntax",
 		"AutoFileName",
 		"ayu",
+		"Babel",
 		"BracketHighlighter",
 		"cdnjs",
 		"Chrome Color Scheme",
+		"Code Champion",
 		"Color Highlighter",
 		"ColorPicker",
 		"Colorsublime",
@@ -42,7 +44,6 @@
 		"MODx Revolution Snippets",
 		"ModxElements",
 		"MySQL Snippets",
-		"Nodejs",
 		"Package Control",
 		"PackageResourceViewer",
 		"PhpDoc",
@@ -51,11 +52,24 @@
 		"Sass",
 		"SCSS",
 		"SFTP",
+		"SideBarEnhancements",
 		"Smarty",
+		"sublime-html2jade",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeLinter-contrib-rstylelint",
 		"SublimeLinter-contrib-stylelint_d",
+		"SublimeLinter-csslint",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
 		"Theme - Brogrammer",
 		"Theme - Numix Light",
-		"TypeScript"
+		"TypeScript",
+		"Vue Syntax Highlight"
+	],
+	"repositories":
+	[
+		"https://github.com/anderson916/sublime-html2jade"
 	]
 }
